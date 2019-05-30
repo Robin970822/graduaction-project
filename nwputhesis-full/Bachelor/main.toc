@@ -1,0 +1,53 @@
+\ttl@change@i {\@ne }{chapter}{0.0em}{\hei \vspace {0.5em}}{\contentslabel {0.0em}}{\hspace *{-0.0em}}{\titlerule *[5pt]{.}\contentspage }\relax 
+\ttl@change@v {chapter}{}{}{}\relax 
+\ttl@change@i {\@ne }{section}{1.16cm}{}{\contentslabel {1.8em}}{\hspace *{-1.8em}}{\titlerule *[5pt]{.}\contentspage }\relax 
+\ttl@change@v {section}{}{}{}\relax 
+\ttl@change@i {\@ne }{subsection}{2.00cm}{}{\contentslabel {2.7em}}{\hspace *{-2.7em}}{\titlerule *[5pt]{.}\contentspage }\relax 
+\ttl@change@v {subsection}{}{}{}\relax 
+\ttl@change@i {\@ne }{subsubsection}{2.86cm}{}{\contentslabel {3.4em}}{\hspace *{-3.4em}}{\titlerule *[5pt]{.}\contentspage }\relax 
+\ttl@change@v {subsubsection}{}{}{}\relax 
+\contentsline {chapter}{\numberline {}第一章\hspace {0.8em}绪论}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}研究背景}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}轮式机器人决策系统研究现状}{1}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}强化学习研究现状}{2}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}研究内容}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}章节安排}{4}{section.1.3}
+\contentsline {chapter}{\numberline {}第二章\hspace {0.8em}轮式机器人决策系统}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}问题定义}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}决策系统架构}{6}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}架构概述}{6}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}模组通信}{7}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}模组功能}{7}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}决策系统设计}{8}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}确定性有限状态机}{10}{subsection.2.3.1}
+\contentsline {chapter}{\numberline {}第三章\hspace {0.8em}强化学习算法研究与分析}{12}{chapter.3}
+\contentsline {section}{\numberline {3.1}强化学习基本原理}{12}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}马尔可夫决策过程}{12}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}强化学习算法}{14}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}值函数}{15}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}策略搜索}{16}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}深度强化学习}{17}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}深度强化学习算法}{18}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Deep Q-learning}{19}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Deep Deterministic Policy Gradient}{20}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}多智能体异步DDPG}{22}{subsection.3.3.3}
+\contentsline {chapter}{\numberline {}第四章\hspace {0.8em}实验数据采集与分析}{24}{chapter.4}
+\contentsline {section}{\numberline {4.1}仿真平台}{24}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}ROS简介}{24}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}RVIZ与Gazebo}{24}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}真实环境}{25}{section.4.2}
+\contentsline {section}{\numberline {4.3}奖励函数定义}{26}{section.4.3}
+\contentsline {section}{\numberline {4.4}代码设计}{27}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Deep Q-learning}{28}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Deep Deterministic Policy Gradient}{28}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}多智能体异步DDPG}{29}{subsection.4.4.3}
+\contentsline {section}{\numberline {4.5}实验结果}{30}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}仿真实验结果}{30}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}真实环境下对抗结果}{30}{subsection.4.5.2}
+\contentsline {chapter}{\numberline {}第五章\hspace {0.8em}全文总结}{32}{chapter.5}
+\contentsline {section}{\numberline {5.1}全文总结}{32}{section.5.1}
+\contentsline {section}{\numberline {5.2}对未来工作的展望}{32}{section.5.2}
+\contentsline {chapter}{{\bf 参考文献}}{33}{section*.4}
+\contentsline {chapter}{\CJKfamily {hei}致谢}{35}{chapter*.6}
+\contentsline {chapter}{\CJKfamily {hei}毕业设计小结}{36}{chapter*.7}
+\contentsfinish 

@@ -1,0 +1,1656 @@
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2019.5.26)  27 MAY 2019 16:30
+entering extended mode
+**4bitle-chs.tex
+
+(C:\Users\hasee007\Desktop\毕设\last-dinner\nwputhesis-full\paper-trans\paper
+-trans\4bitle-chs.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(C:\CTEX\MiKTeX\tex\latex\base\article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(C:\CTEX\MiKTeX\tex\latex\base\size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+Requested font "cmr12" at 12.0pt
+ -> cmr12
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:\Users\hasee007\Desktop\毕设\last-dinner\nwputhesis-full\paper-trans\paper
+-trans\setup/package.tex (C:\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(C:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(C:\CTEX\MiKTeX\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip43
+\subfigcapskip=\skip44
+\subfigcaptopadj=\dimen105
+\subfigbottomskip=\skip45
+\subfigcapmargin=\dimen106
+\subfiglabelskip=\skip46
+\c@subfigure=\count88
+\c@lofdepth=\count89
+\c@subtable=\count90
+\c@lotdepth=\count91
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\CTEX\MiKTeX\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip47
+\subfig@bottom=\skip48
+)
+(C:\CTEX\MiKTeX\tex\latex\graphics\color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(C:\CTEX\MiKTeX\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: xetex.def on input line 130.
+
+(C:\CTEX\MiKTeX\tex\xelatex\xetex-def\xetex.def
+File: xetex.def 2009/11/22 v0.94 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+(C:\CTEX\MiKTeX\tex\latex\graphics\epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen107
+\epsfysize=\dimen108
+)
+(C:\CTEX\MiKTeX\tex\latex\tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(C:\CTEX\MiKTeX\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(C:\CTEX\MiKTeX\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count92
+\Gm@cntv=\count93
+\c@Gm@tempcnt=\count94
+\Gm@bindingoffset=\dimen109
+\Gm@wd@mp=\dimen110
+\Gm@odd@mp=\dimen111
+\Gm@even@mp=\dimen112
+\Gm@layoutwidth=\dimen113
+\Gm@layoutheight=\dimen114
+\Gm@layouthoffset=\dimen115
+\Gm@layoutvoffset=\dimen116
+\Gm@dimlist=\toks15
+
+(C:\CTEX\MiKTeX\tex\xelatex\xetexconfig\geometry.cfg)
+
+! Package keyval Error: twosideshift undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.994 \ProcessOptionsKV[p]{Gm}
+                              %
+? 
+) (C:\CTEX\MiKTeX\tex\latex\footmisc\footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks16
+\footnotemargin=\dimen117
+\c@pp@next@reset=\count95
+\c@@fnserial=\count96
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen118
+))
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen119
+)
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count97
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count98
+\leftroot@=\count99
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count100
+\DOTSCASE@=\count101
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen120
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count102
+\c@MaxMatrixCols=\count103
+\dotsspace@=\muskip10
+\c@parentequation=\count104
+\dspbrk@lvl=\count105
+\tag@help=\toks18
+\row@=\count106
+\column@=\count107
+\maxfields@=\count108
+\andhelp@=\toks19
+\eqnshift@=\dimen121
+\alignsep@=\dimen122
+\tagshift@=\dimen123
+\tagwidth@=\dimen124
+\totwidth@=\dimen125
+\lineht@=\dimen126
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(C:\CTEX\MiKTeX\tex\latex\jknappen\mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(C:\CTEX\MiKTeX\tex\latex\ntheorem\ntheorem.sty
+Style `ntheorem', Version 1.31 <2011/02/16>
+Package: ntheorem 2011/02/16 1.31
+(C:\CTEX\MiKTeX\tex\latex\base\ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\theorem@style=\toks22
+\theorem@@style=\toks23
+\theorembodyfont=\toks24
+\theoremnumbering=\toks25
+\theorempreskipamount=\skip52
+\theorempostskipamount=\skip53
+\theoremframepreskipamount=\skip54
+\theoremframepostskipamount=\skip55
+\theoremindent=\dimen127
+\theorem@indent=\dimen128
+\theoremheaderfont=\toks26
+\theoremseparator=\toks27
+\theoremprework=\toks28
+\theorempostwork=\toks29
+\theoremsymbol=\toks30
+\qedsymbol=\toks31
+\theoremkeyword=\toks32
+\qedsymbol=\toks33
+\thm@topsepadd=\skip56
+Package ntheorem Info: Option `thmmarks' loaded on input line 1066.
+\c@endNonectr=\count109
+\c@currNonectr=\count110
+\mysavskip=\skip57
+Package ntheorem Info: option `amsmath' handling for `thmmarks' loaded on input
+ line 1066.
+\thm@amstmpdepth=\dimen129
+\tagwidth=\dimen130
+)
+(C:\CTEX\MiKTeX\tex\latex\placeins\placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(C:\CTEX\MiKTeX\tex\latex\rotating\rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+\c@r@tfl@t=\count111
+\rotFPtop=\skip58
+\rotFPbot=\skip59
+\rot@float@box=\box28
+\rot@mess@toks=\toks34
+)
+(C:\CTEX\MiKTeX\tex\latex\type1cm\type1cm.sty
+Package: type1cm 2002/09/05 v0.04 BlueSky/Y&Y Type1 CM font definitions (DPC, p
+atched RF)
+)
+(C:\CTEX\MiKTeX\tex\latex\titlesec\titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box29
+\beforetitleunit=\skip60
+\aftertitleunit=\skip61
+\ttl@plus=\dimen131
+\ttl@minus=\dimen132
+\ttl@toksa=\toks35
+\titlewidth=\dimen133
+\titlewidthlast=\dimen134
+\titlewidthfirst=\dimen135
+)
+(C:\CTEX\MiKTeX\tex\latex\titlesec\titletoc.sty
+Package: titletoc 2011/12/15 v1.6 TOC entries
+\ttl@leftsep=\dimen136
+)
+(C:\CTEX\MiKTeX\tex\latex\tools\bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup7
+\symboldletters=\mathgroup8
+\symboldsymbols=\mathgroup9
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+)
+(C:\CTEX\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+\fancy@headwidth=\skip62
+\f@ncyO@elh=\skip63
+\f@ncyO@erh=\skip64
+\f@ncyO@olh=\skip65
+\f@ncyO@orh=\skip66
+\f@ncyO@elf=\skip67
+\f@ncyO@erf=\skip68
+\f@ncyO@olf=\skip69
+\f@ncyO@orf=\skip70
+)
+(C:\CTEX\MiKTeX\tex\latex\fancyref\fancyref.sty
+Package: fancyref 1999/02/03 v0.9c Fancy cross-referencing
+
+(C:\CTEX\MiKTeX\tex\latex\tools\varioref.sty
+Package: varioref 2011/10/02 v1.4z package for extended references (FMi)
+\c@vrcnt=\count112
+))
+(C:\CTEX\MiKTeX\tex\latex\cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+)
+(C:\CTEX\MiKTeX\tex\latex\caption\caption2.sty
+Package: caption2 2011/08/12 v2.2d Customising captions (AR)
+
+
+Package caption2 Warning: ****************************************************
+(caption2)                THIS PACKAGE IS OBSOLETE:
+(caption2)                This package attempts to provide an `caption2'
+(caption2)                package v2.0/2.1 author environment so that OLD
+(caption2)                documents can be successfully processed. It should
+(caption2)                NOT be used for NEW documents! New documents should
+(caption2)                use the regular `caption' package v3.x instead.
+(caption2)                ****************************************************
+
+(C:\CTEX\MiKTeX\tex\latex\caption\caption3.sty
+Package: caption3 2011/11/01 v1.4a caption3 kernel (AR)
+\captionmargin=\dimen137
+\captionmargin@=\dimen138
+\captionwidth=\dimen139
+\caption@indent=\dimen140
+\caption@parindent=\dimen141
+\caption@hangindent=\dimen142
+)
+Package caption2 Info: Running in caption2 v2.0 compatibility mode on input lin
+e 210.
+\captionlinewidth=\dimen143
+\realcaptionwidth=\dimen144
+Package caption2 Info: subfigure package v2.1 (or newer) detected on input line
+ 438.
+\subfigcapwidth=\dimen145
+\subcapindent=\dimen146
+)
+(C:\CTEX\MiKTeX\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\CTEX\MiKTeX\tex\latex\layouts\layouts.sty
+Package: layouts 2009/09/02 v2.6d graphical depiction of document elements
+\l@ylen=\skip71
+\layoutsbox=\box30
+\l@youtunitlength=\skip72
+\l@youtlinethick=\skip73
+\l@youtlinethickii=\skip74
+\l@ysetupparskip=\skip75
+\l@ysetupbaselineskip=\skip76
+\l@yonem=\skip77
+\l@yonex=\skip78
+\l@ylmarg=\skip79
+\l@yrmarg=\skip80
+\l@yitmindent=\skip81
+\l@ylblwidth=\skip82
+\l@ylblsep=\skip83
+\l@ylparindent=\skip84
+\l@ytsep=\skip85
+\l@ypskip=\skip86
+\l@yptsep=\skip87
+\l@ypsep=\skip88
+\l@yitmsep=\skip89
+\l@ytok=\toks36
+\l@youtpw=\count113
+\l@youtph=\count114
+\l@youthpi=\count115
+\l@youthpii=\count116
+\l@youthpiii=\count117
+\l@youthpiv=\count118
+\l@youthpv=\count119
+\l@youthpvi=\count120
+\l@youthpvii=\count121
+\l@youtparskip=\count122
+\l@youtvpi=\count123
+\l@youtvpii=\count124
+\l@youtvpiii=\count125
+\l@youtvpiv=\count126
+\l@youtvpv=\count127
+\l@youtvpvi=\count128
+\l@youtvpvii=\count129
+\l@youthdo=\count130
+\l@youthdi=\count131
+\l@youthdii=\count132
+\l@youthdiii=\count133
+\l@youthdiv=\count134
+\l@youthdv=\count135
+\l@youthdvi=\count136
+\l@youthdvii=\count137
+\l@youtvdo=\count138
+\l@youtvdi=\count139
+\l@youtvdii=\count140
+\l@youtvdiii=\count141
+\l@youtvdiv=\count142
+\l@youtvdv=\count143
+\l@youtvdvi=\count144
+\l@youtvdvii=\count145
+\l@youtvdviii=\count146
+\l@youtxci=\count147
+\l@youtxcii=\count148
+\l@youtxciii=\count149
+\l@youtxciv=\count150
+\l@youtxcv=\count151
+\l@youtxcvi=\count152
+\l@youtyci=\count153
+\l@youtycii=\count154
+\l@youtyciii=\count155
+\l@youtyciv=\count156
+\l@youtycv=\count157
+\l@youtycvi=\count158
+\l@youtycvii=\count159
+\l@youtycviii=\count160
+\l@youtxco=\count161
+\l@youtyco=\count162
+\l@ytempdima=\skip90
+\stockwidth=\skip91
+\stockheight=\skip92
+\trimedge=\skip93
+\trimtop=\skip94
+\uppermargin=\skip95
+\spinemargin=\skip96
+)
+(C:\CTEX\MiKTeX\tex\xelatex\xecjk\xeCJK.sty
+Package: xeCJK 2012/01/31 2.4.5 package for typesetting CJK scripts with XeLaTe
+X
+
+
+Package xeCJK Warning: obsolete option 'CJKtextspaces'. It may be removed in th
+e future. on input line 69.
+
+(C:\CTEX\MiKTeX\tex\latex\xkeyval\xkeyval.sty
+Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
+
+(C:\CTEX\MiKTeX\tex\generic\xkeyval\xkeyval.tex
+\XKV@toks=\toks37
+\XKV@tempa@toks=\toks38
+\XKV@depth=\count163
+File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
+))
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\expl3.sty
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3names.sty
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3bootstrap.sty
+Package: l3bootstrap 2011/12/29 v3110 L3 Experimental bootstrap code
+)
+Package: l3names 2011/12/30 v3113 L3 Experimental namespace for primitives
+)
+(C:\CTEX\MiKTeX\tex\latex\misc\etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count164
+)
+Package: expl3 2012/02/26 v3471 L3 Experimental code bundle wrapper
+
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3basics.sty
+Package: l3basics 2012/02/26 v3460 L3 Experimental basic definitions
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3expan.sty
+Package: l3expan 2012/02/26 v3460 L3 Experimental argument expansion
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3tl.sty
+Package: l3tl 2012/02/26 v3460 L3 Experimental token lists
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3seq.sty
+Package: l3seq 2012/01/09 v3158 L3 Experimental sequences and stacks
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3int.sty
+Package: l3int 2012/02/26 v3460 L3 Experimental integers
+\c_max_int=\count165
+\l_tmpa_int=\count166
+\l_tmpb_int=\count167
+\l_tmpc_int=\count168
+\g_tmpa_int=\count169
+\g_tmpb_int=\count170
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3quark.sty
+Package: l3quark 2012/02/12 v3384 L3 Experimental quarks
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3prg.sty
+Package: l3prg 2012/02/26 v3464 L3 Experimental control structures
+\g_prg_map_int=\count171
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3clist.sty
+Package: l3clist 2012/02/26 v3460 L3 Experimental comma separated lists
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3token.sty
+Package: l3token 2012/02/26 v3460 L3 Experimental token manipulation
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3prop.sty
+Package: l3prop 2012/02/26 v3460 L3 Experimental property lists
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3msg.sty
+Package: l3msg 2012/02/26 v3470 L3 Experimental messages
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3file.sty
+Package: l3file 2012/02/26 v3464 L3 Experimental file and I/O operations
+\l_iow_stream_int=\count172
+\l_iow_line_length_int=\count173
+\l_iow_target_length_int=\count174
+\l_iow_current_line_int=\count175
+\l_iow_current_word_int=\count176
+\l_iow_current_indentation_int=\count177
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3skip.sty
+Package: l3skip 2012/02/26 v3460 L3 Experimental dimensions and skips
+\l_tmpa_dim=\dimen147
+\l_tmpb_dim=\dimen148
+\l_tmpc_dim=\dimen149
+\g_tmpa_dim=\dimen150
+\g_tmpb_dim=\dimen151
+\l_tmpa_skip=\skip97
+\l_tmpb_skip=\skip98
+\l_tmpc_skip=\skip99
+\g_tmpa_skip=\skip100
+\g_tmpb_skip=\skip101
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3keys.sty
+Package: l3keys 2011/12/22 v3086 L3 Experimental key-value interfaces
+\g_keyval_level_int=\count178
+\l_keys_choice_int=\count179
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3fp.sty
+Package: l3fp 2012/02/06 v3315 L3 Experimental floating-point operations
+\c_one_hundred_million=\count180
+\c_five_hundred_million=\count181
+\c_one_thousand_million=\count182
+\c_fp_pi_by_four_decimal_int=\count183
+\c_fp_pi_by_four_extended_int=\count184
+\c_fp_pi_decimal_int=\count185
+\c_fp_pi_extended_int=\count186
+\c_fp_two_pi_decimal_int=\count187
+\c_fp_two_pi_extended_int=\count188
+\l_fp_count_int=\count189
+\l_fp_div_offset_int=\count190
+\l_fp_exp_integer_int=\count191
+\l_fp_exp_decimal_int=\count192
+\l_fp_exp_extended_int=\count193
+\l_fp_exp_exponent_int=\count194
+\l_fp_input_a_sign_int=\count195
+\l_fp_input_a_integer_int=\count196
+\l_fp_input_a_decimal_int=\count197
+\l_fp_input_a_exponent_int=\count198
+\l_fp_input_b_sign_int=\count199
+\l_fp_input_b_integer_int=\count200
+\l_fp_input_b_decimal_int=\count201
+Normal \count register pool exhausted, switching to extended pool.
+\l_fp_input_b_exponent_int=\count277
+\l_fp_input_a_extended_int=\count278
+\l_fp_input_b_extended_int=\count279
+\l_fp_mul_a_i_int=\count280
+\l_fp_mul_a_ii_int=\count281
+\l_fp_mul_a_iii_int=\count282
+\l_fp_mul_a_iv_int=\count283
+\l_fp_mul_a_v_int=\count284
+\l_fp_mul_a_vi_int=\count285
+\l_fp_mul_b_i_int=\count286
+\l_fp_mul_b_ii_int=\count287
+\l_fp_mul_b_iii_int=\count288
+\l_fp_mul_b_iv_int=\count289
+\l_fp_mul_b_v_int=\count290
+\l_fp_mul_b_vi_int=\count291
+\l_fp_mul_output_int=\count292
+\l_fp_output_sign_int=\count293
+\l_fp_output_integer_int=\count294
+\l_fp_output_decimal_int=\count295
+\l_fp_output_exponent_int=\count296
+\l_fp_output_extended_int=\count297
+\l_fp_round_position_int=\count298
+\l_fp_round_target_int=\count299
+\l_fp_split_sign_int=\count300
+\l_fp_internal_int=\count301
+\l_fp_trig_octant_int=\count302
+\l_fp_trig_sign_int=\count303
+\l_fp_trig_decimal_int=\count304
+\l_fp_trig_extended_int=\count305
+\l_fp_internal_dim=\dimen152
+\l_fp_internal_skip=\skip102
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3box.sty
+Package: l3box 2012/02/18 v3432 L3 Experimental boxes
+\l_tmpb_box=\box31
+\l_box_top_dim=\dimen153
+\l_box_bottom_dim=\dimen154
+\l_box_left_dim=\dimen155
+\l_box_right_dim=\dimen156
+\l_box_top_new_dim=\dimen157
+\l_box_bottom_new_dim=\dimen158
+\l_box_left_new_dim=\dimen159
+\l_box_right_new_dim=\dimen160
+\l_box_internal_box=\box32
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3coffins.sty
+Package: l3coffins 2012/02/26 v3460 L3 Experimental coffin code layer
+\l_coffin_internal_box=\box33
+\l_coffin_internal_dim=\dimen161
+\l_coffin_offset_x_dim=\dimen162
+\l_coffin_offset_y_dim=\dimen163
+\l_coffin_x_dim=\dimen164
+\l_coffin_y_dim=\dimen165
+\l_coffin_x_prime_dim=\dimen166
+\l_coffin_y_prime_dim=\dimen167
+\l_coffin_Depth_dim=\dimen168
+\l_coffin_Height_dim=\dimen169
+\l_coffin_TotalHeight_dim=\dimen170
+\l_coffin_Width_dim=\dimen171
+\c_empty_coffin=\box34
+\l_coffin_aligned_coffin=\box35
+\l_coffin_aligned_internal_coffin=\box36
+\l_coffin_bounding_shift_dim=\dimen172
+\l_coffin_left_corner_dim=\dimen173
+\l_coffin_right_corner_dim=\dimen174
+\l_coffin_bottom_corner_dim=\dimen175
+\l_coffin_top_corner_dim=\dimen176
+\l_coffin_scaled_total_height_dim=\dimen177
+\l_coffin_scaled_width_dim=\dimen178
+\l_coffin_display_coffin=\box37
+\l_coffin_display_coord_coffin=\box38
+\l_coffin_display_pole_coffin=\box39
+\l_coffin_display_offset_dim=\dimen179
+\l_coffin_display_x_dim=\dimen180
+\l_coffin_display_y_dim=\dimen181
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3color.sty
+Package: l3color 2011/09/07 v2776 L3 Experimental colour support
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3luatex.sty
+Package: l3luatex 2012/02/09 v3355 L3 Experimental LuaTeX-specific functions
+\g_cctab_allocate_int=\count306
+\g_cctab_stack_int=\count307
+))
+(C:\CTEX\MiKTeX\tex\latex\fontspec\fontspec.sty
+Package: fontspec 2011/09/18 v2.2a Advanced font selection for XeLaTeX/LuaLaTeX
+
+
+(C:\CTEX\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+Package: xparse 2012/02/26 v3471 L3 Experimental document command parser
+\l_xparse_current_arg_int=\count308
+\l_xparse_m_args_int=\count309
+\l_xparse_mandatory_args_int=\count310
+\l_xparse_processor_int=\count311
+\l_xparse_v_nesting_int=\count312
+)
+\l_fontspec_script_int=\count313
+\l_fontspec_language_int=\count314
+\l_fontspec_strnum_int=\count315
+\l_fontspec_tmpa_dim=\dimen182
+\l_fontspec_tmpb_dim=\dimen183
+\l_fontspec_tmpc_dim=\dimen184
+Variant \tl_gset:cV already defined; not changing it on line 66
+
+(C:\CTEX\MiKTeX\tex\latex\fontspec\fontspec-patches.sty
+Package: fontspec-patches 2011/09/18 v2.2a Advanced font selection for XeLaTeX/
+LuaLaTeX
+
+(C:\CTEX\MiKTeX\tex\latex\base\fixltx2e.sty
+Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
+LaTeX Info: Redefining \em on input line 420.
+LaTeX Info: The control sequence `\[' is already robust on input line 471.
+LaTeX Info: The control sequence `\]' is already robust on input line 472.
+)
+LaTeX Info: Redefining \em on input line 22.
+LaTeX Info: Redefining \emph on input line 29.
+LaTeX Info: Redefining \- on input line 32.
+
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \oldstylenums with arg. spec. 'm' on line 107.
+*************************************************
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \liningnums with arg. spec. 'm' on line 111.
+.................................................
+) (C:\CTEX\MiKTeX\tex\latex\fontspec\fontspec-xetex.sty
+Package: fontspec-xetex 2011/09/18 v2.2a Advanced font selection for XeLaTeX/Lu
+aLaTeX
+
+(C:\CTEX\MiKTeX\tex\latex\base\fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(C:\CTEX\MiKTeX\tex\latex\euenc\eu1enc.def
+File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
+)
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 100.
+
+
+(C:\CTEX\MiKTeX\tex\latex\euenc\eu1lmr.fd
+File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Requested font "[lmroman10-regular]:mapping=tex-text" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman10-regular.otf
+)
+(C:\CTEX\MiKTeX\tex\xelatex\xunicode\xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+other characters in Unicode lower plane
+
+(C:\CTEX\MiKTeX\tex\latex\tipa\t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+Requested font "[lmromanslant10-regular]:mapping=tex-text" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmromanslant10-regular.otf
+Requested font "[lmroman10-italic]:mapping=tex-text" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman10-italic.otf
+Requested font "[lmroman10-bold]:mapping=tex-text" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman10-bold.otf
+LaTeX Font Info:    Try loading font information for EU1+lmss on input line 357
+.
+
+(C:\CTEX\MiKTeX\tex\latex\euenc\eu1lmss.fd
+File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Requested font "[lmsans10-regular]:mapping=tex-text" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmsans10-regular.otf
+)
+\tipaTiiicode=\count316
+\tipasavetokens=\toks39
+\tipachecktokens=\toks40
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \fontspec with arg. spec. 'O{}m' on line 39.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmainfont with arg. spec. 'O{}m' on line 43.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setsansfont with arg. spec. 'O{}m' on line 47.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmonofont with arg. spec. 'O{}m' on line 51.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmathrm with arg. spec. 'O{}m' on line 59.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setboldmathrm with arg. spec. 'O{}m' on line 62.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmathsf with arg. spec. 'O{}m' on line 65.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmathtt with arg. spec. 'O{}m' on line 68.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontfamily with arg. spec. 'mO{}m' on line 84.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontface with arg. spec. 'mO{}m' on line 87.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \defaultfontfeatures with arg. spec. 'm' on line
+. 91.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \addfontfeatures with arg. spec. 'm' on line 107.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontfeature with arg. spec. 'mm' on line 118.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newAATfeature with arg. spec. 'mmmm' on line 125.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newICUfeature with arg. spec. 'mmm' on line 132.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \aliasfontfeature with arg. spec. 'mm' on line
+. 159.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \aliasfontfeatureoption with arg. spec. 'mmm' on
+. line 164.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontscript with arg. spec. 'mm' on line 169.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontlanguage with arg. spec. 'mm' on line 192.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareFontsExtensions with arg. spec. 'm' on
+. line 211.
+.................................................
+Variant \prop_gput:cnV already defined; not changing it on line 485
+Variant \prop_gput:cnx already defined; not changing it on line 486
+Variant \keys_set:nx already defined; not changing it on line 963
+\c@fontspec_tmp_int=\count317
+LaTeX Info: Redefining \itshape on input line 1881.
+LaTeX Info: Redefining \slshape on input line 1885.
+LaTeX Info: Redefining \scshape on input line 1889.
+LaTeX Info: Redefining \upshape on input line 1893.
+
+(C:\CTEX\MiKTeX\tex\latex\fontspec\fontspec.cfg)))
+\xeCJK@cnta=\count318
+\xeCJK@cntb=\count319
+\xeCJK@cntc=\count320
+\xeCJK@cntd=\count321
+\xeCJK@cnte=\count322
+\xeCJK@dima=\dimen185
+LaTeX Info: Redefining \normalfont on input line 886.
+LaTeX Info: Redefining \rmfamily on input line 895.
+LaTeX Info: Redefining \sffamily on input line 899.
+LaTeX Info: Redefining \ttfamily on input line 903.
+\xeCJK@featureadded=\count323
+\g_xecjk_exspace_dim=\dimen186
+)
+(C:\CTEX\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+(C:\CTEX\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+(C:\CTEX\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+(C:\CTEX\MiKTeX\tex\generic\pgf\utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks41
+)
+(C:\CTEX\MiKTeX\tex\generic\pgf\utilities\pgfutil-latex.def
+\pgfutil@abb=\box40
+
+(C:\CTEX\MiKTeX\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(C:\CTEX\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+
+(C:\CTEX\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+(C:\CTEX\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+(C:\CTEX\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+
+(C:\CTEX\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks42
+\pgfkeys@temptoks=\toks43
+
+(C:\CTEX\MiKTeX\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks44
+))
+\pgf@x=\dimen187
+\pgf@y=\dimen188
+\pgf@xa=\dimen189
+\pgf@ya=\dimen190
+\pgf@xb=\dimen191
+\pgf@yb=\dimen192
+\pgf@xc=\dimen193
+\pgf@yc=\dimen194
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count324
+\c@pgf@countb=\count325
+\c@pgf@countc=\count326
+\c@pgf@countd=\count327
+
+(C:\CTEX\MiKTeX\tex\generic\pgf\systemlayer\pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-xetex.def on input line 900.
+
+(C:\CTEX\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-xetex.def
+File: pgfsys-xetex.def 2010/02/16  (rcs-revision 1.3)
+
+(C:\CTEX\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)
+(C:\CTEX\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-common-pdf-via-dvi.def
+File: pgfsys-common-pdf-via-dvi.def 2008/05/19  (rcs-revision 1.7)
+)))
+(C:\CTEX\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count328
+\pgfsyssoftpath@bigbuffer@items=\count329
+)
+(C:\CTEX\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(C:\CTEX\MiKTeX\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(C:\CTEX\MiKTeX\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(C:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+
+(C:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+(C:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathcalc.code.tex
+(C:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathutil.code.tex)
+(C:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen195
+\pgfmath@count=\count330
+\pgfmath@box=\box41
+\pgfmath@toks=\toks45
+\pgfmath@stack@operand=\toks46
+\pgfmath@stack@operation=\toks47
+)
+(C:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.code.tex
+(C:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex)
+(C:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex)
+(C:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.random.code.tex)
+(C:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex)
+(C:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.base.code.tex)
+(C:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.round.code.tex)
+(C:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex)))
+(C:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count331
+))
+(C:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen196
+\pgf@picmaxx=\dimen197
+\pgf@picminy=\dimen198
+\pgf@picmaxy=\dimen199
+\pgf@pathminx=\dimen200
+\pgf@pathmaxx=\dimen201
+Normal \dimen register pool exhausted, switching to extended pool.
+\pgf@pathminy=\dimen256
+\pgf@pathmaxy=\dimen257
+\pgf@xx=\dimen258
+\pgf@xy=\dimen259
+\pgf@yx=\dimen260
+\pgf@yy=\dimen261
+\pgf@zx=\dimen262
+\pgf@zy=\dimen263
+)
+(C:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen264
+\pgf@path@lasty=\dimen265
+)
+(C:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen266
+\pgf@shorten@start@additional=\dimen267
+)
+(C:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box42
+\pgf@hbox=\box43
+\pgf@layerbox@main=\box44
+\pgf@picture@serial@count=\count332
+)
+(C:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen268
+)
+(C:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen269
+\pgf@pt@y=\dimen270
+\pgf@pt@temp=\dimen271
+)
+(C:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(C:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(C:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+(C:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+(C:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen272
+\pgf@sys@shading@range@num=\count333
+)
+(C:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+(C:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box45
+))
+(C:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+(C:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+(C:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+(C:\CTEX\MiKTeX\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box46
+)
+(C:\CTEX\MiKTeX\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+(C:\CTEX\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen273
+\pgf@nodesepend=\dimen274
+)
+(C:\CTEX\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+))
+(C:\CTEX\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+(C:\CTEX\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+(C:\CTEX\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex))
+(C:\CTEX\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen275
+\pgffor@skip=\dimen276
+\pgffor@stack=\toks48
+\pgffor@toks=\toks49
+))
+(C:\CTEX\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+(C:\CTEX\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count334
+\pgfplotmarksize=\dimen277
+)
+\tikz@lastx=\dimen278
+\tikz@lasty=\dimen279
+\tikz@lastxsaved=\dimen280
+\tikz@lastysaved=\dimen281
+\tikzleveldistance=\dimen282
+\tikzsiblingdistance=\dimen283
+\tikz@figbox=\box47
+\tikz@tempbox=\box48
+\tikztreelevel=\count335
+\tikznumberofchildren=\count336
+\tikznumberofcurrentchild=\count337
+\tikz@fig@count=\count338
+
+(C:\CTEX\MiKTeX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count339
+\pgfmatrixcurrentcolumn=\count340
+\pgf@matrix@numberofcolumns=\count341
+)
+\tikz@expandcount=\count342
+
+(C:\CTEX\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths
+.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+)))) (C:\CTEX\MiKTeX\tex\latex\hyperref\hyperref.sty
+Package: hyperref 2012/02/06 v6.82o Hypertext links for LaTeX
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\hobsub-hyperref.sty
+Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\hobsub-generic.sty
+Package: hobsub-generic 2011/04/23 v1.4 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2011/04/04 v1.12 Provides string conversions (HO)
+Package: bigintcalc 2011/01/30 v1.2 Expandable big integer calculations (HO)
+Package: bitset 2011/01/30 v1.1 Data type bit set (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provides unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/01/30 v1.0 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
+Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
+)
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+)
+\@linkdim=\dimen284
+\Hy@linkcounter=\count343
+\Hy@pagecounter=\count344
+
+(C:\CTEX\MiKTeX\tex\latex\hyperref\pd1enc.def
+File: pd1enc.def 2012/02/06 v6.82o Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count345
+
+(C:\CTEX\MiKTeX\tex\latex\00miktex\hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+
+! Package hyperref Error: Wrong DVI mode driver option `dvipdfmx',
+(hyperref)                because XeTeX is running.
+
+See the hyperref package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3925 \ProcessKeyvalOptions{Hyp}
+                                 
+? 
+Package hyperref Info: Option `CJKbookmarks' set `true' on input line 3925.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 3925
+.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 3925.
+
+Package hyperref Warning: XeTeX driver only supports unicode.
+(hyperref)                Enabling option `unicode'.
+
+Package hyperref Info: Option `unicode' set `true' on input line 3925.
+(C:\CTEX\MiKTeX\tex\latex\hyperref\puenc.def
+File: puenc.def 2012/02/06 v6.82o Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 3925.
+Package hyperref Info: Hyper figures OFF on input line 4046.
+Package hyperref Info: Link nesting OFF on input line 4051.
+Package hyperref Info: Hyper index ON on input line 4054.
+Package hyperref Info: Plain pages OFF on input line 4061.
+Package hyperref Info: Backreferencing OFF on input line 4066.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4284.
+\c@Hy@tempcnt=\count346
+
+(C:\CTEX\MiKTeX\tex\xelatex\xetexurl\url.sty
+\Urlmuskip=\muskip11
+Package: url 2004/03/15  ver 3.1  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4637.
+\Fld@menulength=\count347
+\Field@Width=\dimen285
+\Fld@charsize=\dimen286
+Package hyperref Info: Hyper figures OFF on input line 5757.
+Package hyperref Info: Link nesting OFF on input line 5762.
+Package hyperref Info: Hyper index ON on input line 5765.
+Package hyperref Info: backreferencing OFF on input line 5772.
+Package hyperref Info: Link coloring ON on input line 5775.
+Package hyperref Info: Link coloring with OCG OFF on input line 5782.
+Package hyperref Info: PDF/A mode OFF on input line 5787.
+LaTeX Info: Redefining \ref on input line 5827.
+LaTeX Info: Redefining \pageref on input line 5831.
+\Hy@abspage=\count348
+\c@Item=\count349
+\c@Hfootnote=\count350
+)
+
+Package hyperref Message: Driver (autodetected): hxetex.
+
+(C:\CTEX\MiKTeX\tex\latex\hyperref\hxetex.def
+File: hxetex.def 2012/02/06 v6.82o Hyperref driver for XeTeX
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\stringenc.sty
+Package: stringenc 2010/03/01 v1.8 Converts strings between encodings (HO)
+)
+\pdfm@box=\box49
+\c@Hy@AnnotLevel=\count351
+\HyField@AnnotCount=\count352
+\Fld@listcount=\count353
+\c@bookmark@seq@number=\count354
+
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
+
+(rerunfilecheck)             Therefore file contents cannot be checked efficien
+tly
+(rerunfilecheck)             and the loading of the package is aborted.
+)
+\Hy@SectionHShift=\skip103
+)
+(C:\Users\hasee007\Desktop\毕设\last-dinner\nwputhesis-full\paper-trans\paper
+-trans\setup/format.tex
+Requested font "TeX Gyre Termes" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/tex-gyre/texgyretermes-regular.otf
+Requested font "TeX Gyre Termes/ICU" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/tex-gyre/texgyretermes-regular.otf
+\g_fontspec_family_TeX Gyre Termes_int=\count355
+Requested font "TeX Gyre Termes/B/ICU" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/tex-gyre/texgyretermes-bold.otf
+Requested font "TeX Gyre Termes/B/B/ICU" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/tex-gyre/texgyretermes-bold.otf
+Requested font "TeX Gyre Termes/I/ICU" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/tex-gyre/texgyretermes-italic.otf
+Requested font "TeX Gyre Termes/I/I/ICU" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/tex-gyre/texgyretermes-italic.otf
+Requested font "TeX Gyre Termes/BI/ICU" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/tex-gyre/texgyretermes-bolditalic.otf
+Requested font "TeX Gyre Termes/BI/BI/ICU" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/tex-gyre/texgyretermes-bolditalic.otf
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'TeXGyreTermes(0)' created for font 'TeX Gyre Termes' with
+. options [].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"TeX Gyre Termes/ICU:script=latn;language=DFLT;"
+. 
+. * 'small caps' with NFSS spec.:
+. <->"TeX Gyre Termes/ICU:script=latn;language=DFLT;+smcp;"
+. 
+. * 'bold' with NFSS spec.:
+. <->"TeX Gyre Termes/B/ICU:script=latn;language=DFLT;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. <->"TeX Gyre Termes/B/ICU:script=latn;language=DFLT;+smcp;"
+. 
+. * 'italic' with NFSS spec.:
+. <->"TeX Gyre Termes/I/ICU:script=latn;language=DFLT;"
+. 
+. * 'italic small caps' with NFSS spec.:
+. <->"TeX Gyre Termes/I/ICU:script=latn;language=DFLT;+smcp;"
+. 
+. * 'bold italic' with NFSS spec.:
+. <->"TeX Gyre Termes/BI/ICU:script=latn;language=DFLT;"
+. 
+. * 'bold italic small caps' with NFSS spec.:
+. <->"TeX Gyre Termes/BI/ICU:script=latn;language=DFLT;+smcp;"
+.................................................
+Requested font "TeX Gyre Termes/ICU:script=latn;language=DFLT;" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/tex-gyre/texgyretermes-regular.otf
+Requested font "TeX Gyre Heros" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-regular.otf
+Requested font "TeX Gyre Heros/ICU" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-regular.otf
+\g_fontspec_family_TeX Gyre Heros_int=\count356
+Requested font "TeX Gyre Heros/B/ICU" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf
+Requested font "TeX Gyre Heros/B/B/ICU" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf
+Requested font "TeX Gyre Heros/I/ICU" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-italic.otf
+Requested font "TeX Gyre Heros/I/I/ICU" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-italic.otf
+Requested font "TeX Gyre Heros/BI/ICU" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-bolditalic.otf
+Requested font "TeX Gyre Heros/BI/BI/ICU" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-bolditalic.otf
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'TeXGyreHeros(0)' created for font 'TeX Gyre Heros' with options
+. [].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"TeX Gyre Heros/ICU:script=latn;language=DFLT;"
+. 
+. * 'small caps' with NFSS spec.:
+. <->"TeX Gyre Heros/ICU:script=latn;language=DFLT;+smcp;"
+. 
+. * 'bold' with NFSS spec.:
+. <->"TeX Gyre Heros/B/ICU:script=latn;language=DFLT;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. <->"TeX Gyre Heros/B/ICU:script=latn;language=DFLT;+smcp;"
+. 
+. * 'italic' with NFSS spec.:
+. <->"TeX Gyre Heros/I/ICU:script=latn;language=DFLT;"
+. 
+. * 'italic small caps' with NFSS spec.:
+. <->"TeX Gyre Heros/I/ICU:script=latn;language=DFLT;+smcp;"
+. 
+. * 'bold italic' with NFSS spec.:
+. <->"TeX Gyre Heros/BI/ICU:script=latn;language=DFLT;"
+. 
+. * 'bold italic small caps' with NFSS spec.:
+. <->"TeX Gyre Heros/BI/ICU:script=latn;language=DFLT;+smcp;"
+.................................................
+
+(C:\Users\hasee007\Desktop\毕设\last-dinner\nwputhesis-full\paper-trans\paper
+-trans\gb_452.cpx
+File: GB.cap 2003/05/18 4.5.2for Standard LaTeX document class
+)
+\CJKtwospaces=\skip104
+\AphorismAuthor=\box50
+\c@newlist=\count357
+)
+(C:\Users\hasee007\Desktop\毕设\last-dinner\nwputhesis-full\paper-trans\paper
+-trans\4bitle-chs.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 13.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 13.
+ (C:\CTEX\MiKTeX\tex\latex\tipa\t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+Requested font "TeX Gyre Termes/ICU:script=latn;language=DFLT;" at 12.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/tex-gyre/texgyretermes-regular.otf
+
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(90.3375pt, 416.83289pt, 90.3375pt)
+* v-part:(T,H,B)=(72.26999pt, 664.37186pt, 108.405pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=416.83289pt
+* \textheight=664.37186pt
+* \oddsidemargin=18.0675pt
+* \evensidemargin=18.0675pt
+* \topmargin=-22.77364pt
+* \headheight=24.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+Package layouts Warning: Layout scale set to 0.5 on input line 13.
+
+.................................................
+. fontspec info: "setup-math"
+. 
+. Adjusting the maths setup (use [no-math] to avoid this).
+.................................................
+\symlegacymaths=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 13.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 13.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 13.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 13.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 13.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 13.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 13.
+LaTeX Font Info:    Redeclaring math accent \check on input line 13.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 13.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 13.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 13.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 13.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 13.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 13.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> EU1/TeXGyreTermes(0)/m/n on input line 
+13.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 13.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> EU1/TeXGyreTermes(0)/m/n on input line
+ 13.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  EU1/TeXGyreTermes(0)/m/n --> EU1/TeXGyreTermes(0)/m/n o
+n input line 13.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  EU1/TeXGyreTermes(0)/m/n --> EU1/TeXGyreTermes(0)/m/n o
+n input line 13.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> EU1/TeXGyreTermes(0)/m/it on input lin
+e 13.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> EU1/TeXGyreTermes(0)/bx/n on input lin
+e 13.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> EU1/TeXGyreHeros(0)/m/n on input line 
+13.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 13.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  EU1/TeXGyreTermes(0)/m/n --> EU1/TeXGyreTermes(0)/bx/n 
+on input line 13.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  EU1/TeXGyreTermes(0)/m/n --> EU1/TeXGyreTermes(0)/bx/n 
+on input line 13.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> EU1/TeXGyreTermes(0)/bx/it on input l
+ine 13.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> EU1/TeXGyreHeros(0)/bx/n on input lin
+e 13.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 13.
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box51
+
+
+Package hyperref Warning: Height of page (\stockheight) is invalid (0.0pt),
+(hyperref)                using 11in.
+
+Package hyperref Info: Link coloring ON on input line 13.
+(C:\CTEX\MiKTeX\tex\latex\hyperref\nameref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count358
+LaTeX Info: Redefining \Ref on input line 498.
+)
+LaTeX Info: Redefining \ref on input line 13.
+LaTeX Info: Redefining \pageref on input line 13.
+LaTeX Info: Redefining \nameref on input line 13.
+
+(C:\Users\hasee007\Desktop\毕设\last-dinner\nwputhesis-full\paper-trans\paper
+-trans\4bitle-chs.out)
+(C:\Users\hasee007\Desktop\毕设\last-dinner\nwputhesis-full\paper-trans\paper
+-trans\4bitle-chs.out)
+\@outlinefile=\write4
+LaTeX Info: Redefining \Ref on input line 13.
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+
+(C:\Users\hasee007\Desktop\毕设\last-dinner\nwputhesis-full\paper-trans\paper
+-trans\cover.tex
+(C:\Users\hasee007\Desktop\毕设\last-dinner\nwputhesis-full\paper-trans\paper
+-trans\logo.tex
+Missing character: There is no ; in font nullfont!
+Requested font "nwpulogo" at 12.0pt
+ -> C:/WINDOWS/Fonts/nwpulogo_0.ttf
+Missing character: There is no   in font nwpulogo!
+Requested font "nwpulogo/ICU" at 12.0pt
+ -> C:/WINDOWS/Fonts/nwpulogo_0.ttf
+Missing character: There is no   in font nwpulogo/ICU!
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font nwpulogo does not contain any OpenType `Script' information.
+.................................................
+\g_fontspec_family_nwpulogo_int=\count359
+Requested font "nwpulogo/B/ICU" at 12.0pt
+ -> C:/WINDOWS/Fonts/nwpulogo_0.ttf
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font nwpulogo/B (it probably doesn't exist).
+.................................................
+Requested font "nwpulogo/I/ICU" at 12.0pt
+ -> C:/WINDOWS/Fonts/nwpulogo_0.ttf
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font nwpulogo/I (it probably doesn't exist).
+.................................................
+Requested font "nwpulogo/BI/ICU" at 12.0pt
+ -> C:/WINDOWS/Fonts/nwpulogo_0.ttf
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font nwpulogo/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'nwpulogo(0)' created for font 'nwpulogo' with options [].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"nwpulogo/ICU:"
+.................................................
+Requested font "nwpulogo/ICU:" at 12.0pt
+ -> C:/WINDOWS/Fonts/nwpulogo_0.ttf
+Requested font "nwpulogo/ICU:" at 12.0pt
+ -> C:/WINDOWS/Fonts/nwpulogo_0.ttf
+Missing character: There is no ; in font nullfont!
+Requested font "TeX Gyre Termes/B/ICU:script=latn;language=DFLT;" at 12.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/tex-gyre/texgyretermes-bold.otf
+Missing character: There is no ; in font nullfont!
+)
+Overfull \hbox (101.29214pt too wide) in paragraph at lines 29--25
+[][] 
+ []
+
+Requested font "TeX Gyre Termes/ICU:script=latn;language=DFLT;" at 8.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/tex-gyre/texgyretermes-regular.otf
+Requested font "TeX Gyre Termes/ICU:script=latn;language=DFLT;" at 6.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/tex-gyre/texgyretermes-regular.otf
+Requested font "cmmi12" at 12.0pt
+ -> cmmi12
+Requested font "cmmi8" at 8.0pt
+ -> cmmi8
+Requested font "cmmi6" at 6.0pt
+ -> cmmi6
+Requested font "cmsy10" at 12.0pt
+ -> cmsy10
+Requested font "cmsy8" at 8.0pt
+ -> cmsy8
+Requested font "cmsy6" at 6.0pt
+ -> cmsy6
+Requested font "cmex10" at 12.0pt
+ -> cmex10
+Requested font "cmex10" at 8.0pt
+ -> cmex10
+Requested font "cmex10" at 6.0pt
+ -> cmex10
+Requested font "msam10" at 12.0pt
+ -> msam10
+Requested font "msam7" at 8.0pt
+ -> msam7
+Requested font "msam5" at 6.0pt
+ -> msam5
+Requested font "msbm10" at 12.0pt
+ -> msbm10
+Requested font "msbm7" at 8.0pt
+ -> msbm7
+Requested font "msbm5" at 6.0pt
+ -> msbm5
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 25.
+(C:\CTEX\MiKTeX\tex\latex\jknappen\ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+Requested font "rsfs10" at 12.0pt
+ -> rsfs10
+Requested font "rsfs10" at 8.0pt
+ -> rsfs10
+Requested font "rsfs5" at 6.0pt
+ -> rsfs5
+Requested font "cmbx12" at 12.0pt
+ -> cmbx12
+Requested font "cmbx8" at 8.0pt
+ -> cmbx8
+Requested font "cmbx6" at 6.0pt
+ -> cmbx6
+Requested font "cmmib10" at 12.0pt
+ -> cmmib10
+Requested font "cmmib7" at 8.0pt
+ -> cmmib7
+Requested font "cmmib5" at 6.0pt
+ -> cmmib5
+Requested font "cmbsy10" at 12.0pt
+ -> cmbsy10
+Requested font "cmbsy7" at 8.0pt
+ -> cmbsy7
+Requested font "cmbsy5" at 6.0pt
+ -> cmbsy5
+Requested font "cmr8" at 8.0pt
+ -> cmr8
+Requested font "cmr6" at 6.0pt
+ -> cmr6
+Requested font "nwpulogo" at 33.0pt
+ -> C:/WINDOWS/Fonts/nwpulogo_0.ttf
+Missing character: There is no   in font nwpulogo!
+Requested font "nwpulogo/ICU" at 33.0pt
+ -> C:/WINDOWS/Fonts/nwpulogo_0.ttf
+Missing character: There is no   in font nwpulogo/ICU!
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font nwpulogo does not contain any OpenType `Script' information.
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'nwpulogo(0)' created for font 'nwpulogo' with options [].
+. 
+. This font famil

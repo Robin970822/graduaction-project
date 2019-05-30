@@ -1,0 +1,28 @@
+﻿%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%   LaTeX File for Doctor (Master) Thesis of Tsinghua University
+%   LaTeX + CJK     清华大学博士（硕士）论文模板
+%   Based on Wang Tianshu's Template for XJTU
+%   Version: 1.00
+%   Last Update: 2003-09-12
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   Copyright 2002-2003  by  Lei Wang (BaconChina)       (bcpub@sina.com)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%   LaTeX File for xi'an Jiao Tong University
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   Copyright 2001  by  Wang Tianshu    (tswang@asia.com)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\baselinestretch}{1.5}
+\fontsize{12pt}{13pt}\selectfont
+\setmainfont{Times New Roman}
+\chapter*{\bf{ABSTRACT}}
+\markboth{英~文~摘~要}{英~文~摘~要}
+
+
+\vspace{1em}
+\noindent {\textbf{Key Words:}} \quad reinforcement learning, wheeled robot, decision system

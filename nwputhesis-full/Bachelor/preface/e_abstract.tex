@@ -1,0 +1,32 @@
+﻿%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%   LaTeX File for Doctor (Master) Thesis of Tsinghua University
+%   LaTeX + CJK     清华大学博士（硕士）论文模板
+%   Based on Wang Tianshu's Template for XJTU
+%   Version: 1.00
+%   Last Update: 2003-09-12
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   Copyright 2002-2003  by  Lei Wang (BaconChina)       (bcpub@sina.com)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%   LaTeX File for xi'an Jiao Tong University
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   Copyright 2001  by  Wang Tianshu    (tswang@asia.com)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\baselinestretch}{1.5}
+\fontsize{12pt}{13pt}\selectfont
+\setmainfont{Times New Roman}
+\chapter*{\bf{ABSTRACT}}
+\markboth{英~文~摘~要}{英~文~摘~要}
+As a recently-recognized learning model, reinforcement learning learns through the interaction between the agent and the environment to change the action response of the agent to obtain the optimal policy. Deep neural networks provide rich representations that can enable reinforcement learning algorithms to perform effectively. Reinforcement learning methods have been applied to range of robotic tasks. However, for complex control tasks and decision system of wheeled robots in the real world environment, deep reinforcement learning typically requires significant additional work to ensure data validity and sample utilization efficiency.
+
+In this paper, we give a brief introduction to wheeled robot decision system and reinforcement learning algorithm. We describe the basic principles of deep reinforcement learning based on value function and policy search. In the meanwhile, we elaborate the realization and training process of Deep Q-learning and Deep Deterministic Policy Gradient. In addition, we propose a method of applying multi-agent asynchronous training to solve the problem of wheeled robot delay and sampling efficiency in practical applications.
+
+Based on the robot operating system ROS the the simulation platform Gazebo, we build a wheeled robot physics simulation environment, in which we train DQN, DDPG and multi-agent asynchronous DDPG and verify their performance and effects. We explore the adaptability of the above algorithm by using the wheeled robot agent to fight against enemy with human design DFA in the real environment.
+
+\vspace{1em}
+\noindent {\textbf{Key Words:}} \quad reinforcement learning, ROS, wheeled robot, decision system

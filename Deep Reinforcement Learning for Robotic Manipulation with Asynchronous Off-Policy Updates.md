@@ -36,7 +36,7 @@
 
 $$Q(s,a|\theta^Q)=A(s,a|\theta^A) + V(s|\theta^V)$$
 
-$$A(s,a|\theta^A)=-\frac{1}{2}(a-\mu(a|\theta^{\mu}))^TP(s|\theta^P)(a-\mu(x|\theta^\mu))$$$
+$$A(s,a|\theta^A)=-\frac{1}{2}(a-\mu(a|\theta^{\mu}))^TP(s|\theta^P)(a-\mu(x|\theta^\mu))$$
 
 # Asynchronous Training of Normalized Advantage Functions
 
